@@ -1,0 +1,31 @@
+names:
+- A
+- B
+- C
+- D
+- E
+- F
+- G
+- H
+- I
+- J
+- K
+- L
+- M
+- N
+- O
+- P
+- Q
+- R
+- S
+- T
+- U
+- V
+- W
+- X
+- Y
+- Z
+nc: 26
+test: D:\work\personal\American Sign Language\training\dataset/test/images
+train: D:\work\personal\American Sign Language\training\dataset/train/images
+val: D:\work\personal\American Sign Language\training\dataset/valid/images
