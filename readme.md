@@ -41,10 +41,9 @@ training/
 
 ## Project Demo
 
-[Demo Video 1](videos/360443761-6564970b-b950-4be9-8606-b2a5b63e0d39.mp4)
+https://github.com/user-attachments/assets/f2d293b4-dd9c-42a2-b58e-58519d0f7c2d
 
-[Demo Video 2](videos/360443776-761b9ee4-25b7-4c14-92d2-dd3a8494ceca.mp4)
-
+https://github.com/user-attachments/assets/abcb2382-5bdc-4afe-8697-298f8f447973
 
 ## Getting Started
 
