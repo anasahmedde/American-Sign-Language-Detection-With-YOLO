@@ -41,9 +41,9 @@ training/
 
 ## Project Demo
 
-https://github.com/user-attachments/assets/6564970b-b950-4be9-8606-b2a5b63e0d39
+[Demo Video 1](videos/360443761-6564970b-b950-4be9-8606-b2a5b63e0d39.mp4)
 
-https://github.com/user-attachments/assets/761b9ee4-25b7-4c14-92d2-dd3a8494ceca
+[Demo Video 2](videos/360443776-761b9ee4-25b7-4c14-92d2-dd3a8494ceca.mp4)
 
 
 ## Getting Started
@@ -70,7 +70,7 @@ pip install -r requirements.txt
 
 The dataset used for training the YOLOv8 model in this project can be downloaded from the following link:
 
-- [Roboflow ASL Dataset](https://app.roboflow.com/owais-ahmed-xq0js/asl-3i64o/1)
+- [Roboflow ASL Dataset](https://universe.roboflow.com/signlanguage-z2jsm/sign-language-anas/dataset/1)
 
 #### Using Your Own Dataset
 
